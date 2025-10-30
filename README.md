@@ -1,4 +1,6 @@
 ☕ Coffee Shop Sales Dashboard
+
+![Coffee_Sales Dashboard Preview](Coffe_sales.png)
 📋 Project Overview
 
 The Coffee Shop Sales Dashboard is an interactive Power BI report designed to analyze and visualize sales performance across multiple coffee shop locations. It helps business owners and managers gain actionable insights into sales trends, product performance, customer preferences, and overall store efficiency.
